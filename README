@@ -1,0 +1,30 @@
+Avery Tan B1
+Alden Tan B2
+Sudoku Problem Solver
+
+
+
+
+
+
+
+Instruction for using the code:
+* extract the 'sudoku_solver.py' file ina  directory
+* navigate there using the command prompt
+* run the program using 'python3 sudoku_solver.py'
+* the solver includes 10 built-in puzzles
+* click on the 'new puzzle' button in order to get a psuedo randomly chosen puzzle
+* solve it and then click the 'solve' button to mark your answers
+* if you get stuck, you can get the solution to one square by clicking on the 'hint' button
+* once you click the 'solve' button, a pop-up will tell you your score
+* click 'ok' to acknowledge your score
+* to exit, click on the close button 
+
+
+
+
+
+
+
+
+puzzles from http://www.websudoku.com/ and principle from Peter Norvig
